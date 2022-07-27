@@ -1,6 +1,6 @@
-# 梓宸のMyQQ机器人插件分享
+# 梓宸のQQ机器人插件分享
 
-![GitHub](https://img.shields.io/github/license/zichenace/MyQQ-Plugin?style=flat-square)
+![GitHub](https://img.shields.io/github/license/zichenace/QQBot-Plugin?style=flat-square)
 
 分享快乐，共同进步。
 如果喜欢，麻烦请点一下Star
@@ -14,12 +14,12 @@
 
 ## 注意
 
-- 引用了 [MyQQ易语言SDK](https://daen.lanzoux.com/b01hry0za) 和 [精益模块](http://ec.125.la/)
+- 需要框架支持（mq:moen框架 kum:kum框架）
 - 请下载下来并添加调用，否则将报错！
 
 ## 最后
 
-- 欢迎各位加入 [交流群](https://jq.qq.com/?_wv=1027&k=31zGZ0Rm)
+- 欢迎各位加入 [交流群](https://jq.qq.com/?_wv=1027&k=P8UAGy4G)
 - 如果喜欢这个主题，欢迎各位点个 Star ！
 
 ---
