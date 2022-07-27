@@ -3,7 +3,6 @@
 ![GitHub](https://img.shields.io/github/license/zichenace/QQBot-Plugin?style=flat-square)
 
 分享快乐，共同进步。
-如果喜欢，麻烦请点一下Star
 
 ---
 
