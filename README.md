@@ -1,7 +1,5 @@
 # 梓宸のQQ机器人插件分享
 
-![GitHub](https://img.shields.io/github/license/zichenace/QQBot-Plugin?style=flat-square)
-
 分享快乐，共同进步。
 
 ---
