@@ -16,7 +16,7 @@
 
 ## 最后
 
-- 欢迎各位加入 [交流群](https://jq.qq.com/?_wv=1027&k=P8UAGy4G)
+- 欢迎各位加入 [交流群](https://jq.qq.com/?_wv=1027&k=1EQVPdN9)
 - 如果喜欢这个主题，欢迎各位点个 Star ！
 
 ---
